@@ -1,0 +1,10 @@
+.list {
+  border: 5px solid green;
+  padding: 20px;
+}
+
+.product {
+  border: 5px solid red;
+  padding: 5px;
+  margin: 5px;
+}
